@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Node
+node_modules/
+frontend/dist/
+react-ui/dist/
+
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+*.rsuser
+
+# Env files
+.env
+.env.*.local
+.idea/
